@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+.navbar{
+    min-height: 50px;
+    
+}
+
+#head{
+    justify-content: center;
+    position: absolute;
+    margin-top: 70px;
+    padding-left: 620px;
+
+}
+#form{
+    border: 4px solid  #ffa500;;
+    
+    
+}
+.tilte1{
+    padding: 10px;
+
+}    
+
+.list{
+    margin-left: 30px;
+    margin-top: 10px;
+    padding: 40px;
+    
+    font-size: larger;
+    align-content: flex-end;
+
+}
+
+
+#check{
+    border: 3px solid ;
+    
+
+}
+
+.box{
+    
+    margin-top: 150px;
+    width: 350px;
+    margin-left: 550px;
+}
