@@ -15,7 +15,7 @@ function follow () {
 
 function check(callback){
                 
-            if(UserName.value == "Admin" && PwdValid.value == "12" ) {
+            if(UserName.value == "Admin" && PwdValid.value == "12345" ) {
                 callback();
             }
             else
